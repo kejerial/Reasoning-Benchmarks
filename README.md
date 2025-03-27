@@ -1,3 +1,3 @@
-### "The Aha! Moment in Pure Reinforcement Learning Large Language Models"
+# The Aha! Moment in Pure Reinforcement Learning Large Language Models
 
-Repository for reasoning benchmarks for COS598b Final Project
+Code for developing reasoning benchmarks and tasks
