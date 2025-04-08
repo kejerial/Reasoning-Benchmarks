@@ -1,0 +1,274 @@
+[   
+     {
+        "id": "01",
+        "source": "https://edcraft.io/blog/all-articles/10-matchstick-puzzles-with-answers",
+        "equation": "3x9=5",
+        "correct_solution": {
+            "number_of_moves": "1",
+            "explanation": "Move the top left match of the 9 to form a 3 to the top right segment of the 5 to form a 9.",
+            "resulting_equation": "3x3=9"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },   
+    {
+        "id": "02",
+        "source": "https://edcraft.io/blog/all-articles/10-matchstick-puzzles-with-answers",
+        "equation": "8x3=16",
+        "correct_solution": {
+            "number_of_moves": "1",
+            "explanation": "Move the top right match of the 8 to form a 6 to to the top right segment of the 6 in 16 to form an 18.",
+            "resulting_equation": "6x3=18"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },
+    {
+        "id": "03",
+        "source": "https://edcraft.io/blog/all-articles/10-matchstick-puzzles-with-answers",
+        "equation": "5x8=36",
+        "correct_solution": {
+            "number_of_moves": "1",
+            "explanation": "Move the top right match of the 8 to form a 6 to the bottom left segment of the 5 to form a 6.",
+            "resulting_equation": "6x6=36"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },
+    {
+        "id": "04",
+        "source": "https://edcraft.io/blog/all-articles/10-matchstick-puzzles-with-answers",
+        "equation": "2+2+5+6=16",
+        "correct_solution": {
+            "number_of_moves": "1",
+            "explanation": "Move the bottom left match of the the second 2 to the bottom right segment of that same 2 to form a 3.",
+            "resulting_equation": "2+3+5+6=16"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },
+    {
+        "id": "05",
+        "source": "https://edcraft.io/blog/all-articles/10-matchstick-puzzles-with-answers",
+        "equation": "5+5+5+4=28",
+        "correct_solution": {
+            "number_of_moves": "1",
+            "explanation": "Move the middle match of the 8 in 28 to form a 20 to the bottom left segment of any of the fives to form a 6.",
+            "resulting_equation": "6+5+5+4=20"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },
+    {
+        "id": "06",
+        "source": "https://edcraft.io/blog/all-articles/10-matchstick-puzzles-with-answers",
+        "equation": "1+2+3+8=21",
+        "correct_solution": {
+            "number_of_moves": "1",
+            "explanation": "Move the bottom left match of the 8 to form a 9 to the top segment of the 1 to form a 7.",
+            "resulting_equation": "7+2+3+9=21"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },
+    {
+        "id": "07",
+        "source": "https://logiclike.com/en/matchstick-puzzles",
+        "equation": "9-5=8",
+        "correct_solution": {
+            "number_of_moves": "1",
+            "explanation": "Move the middle match of the 8 to form a 0 to the top right segment of the 5 to form a 9.",
+            "resulting_equation": "9-9=0"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },
+    {
+        "id": "08",
+        "source": "https://logiclike.com/en/matchstick-puzzles",
+        "equation": "5-5+9=6",
+        "correct_solution": {
+            "number_of_moves": "1",
+            "explanation": "Move the top right match of the 9 to the bottom left segment of the same digit to form a 6.",
+            "resulting_equation": "5-5+6=6"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },
+    {
+        "id": "09",
+        "source": "https://matchstickpuzzles.blogspot.com/search?q=mathematical",
+        "equation": "0-5=1",
+        "correct_solution": {
+            "number_of_moves": "1",
+            "explanation": "Move the top right match stick of the 0 to the middle segment of the same digit to form a 6.",
+            "resulting_equation": "6-5=1"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },
+    {
+        "id": "10",
+        "source": "https://matchstickpuzzles.blogspot.com/search?q=mathematical",
+        "equation": "7-2=5",
+        "correct_solution": {
+            "number_of_moves": "2",
+            "explanation": "Move the top match of the 7 and the top left match of the 5 to the substraction sign to form an addition sign and the top right segment of the 5 to form a 3.",
+            "resulting_equation": "1+2=3"
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    },
+    {
+        "id": "11",
+        "source": "https://matchstickpuzzles.blogspot.com/search?q=mathematical",
+        "equation": "4+5=5",
+        "correct_solution": {
+            "number_of_moves": "3",
+            "explanation": {
+                "1": "Move the top and bottom matches of the second 5 and the middle match of the 5 to the bottom left and top right segments of the middle 5 and the top right segment of the second 5.",
+                "2": "Move the top and bottom matches of the first 5 and the vertical match of the addition sign to the top and bottom segments of the 4 and the top right segment of the first 5.",
+                "3": "Move the top and bottom matches of the second 5 and the vertical match of the addition sign to the top and bottom segments of the 4 and the top right segment of the second 5."
+            },
+            "resulting_equation": {
+                "1": "4+0=4",
+                "2": "9-4=5",
+                "3": "9-5=4"
+            }
+        },
+        "model_outputs": {
+            "model-1": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            },
+            "model-2": {
+                "reasoning": "",
+                "answer": "",
+                "explanation": "",
+                "correct": false
+            }
+        }
+    }
+]
