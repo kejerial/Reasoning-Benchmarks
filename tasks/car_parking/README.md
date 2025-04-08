@@ -2,6 +2,8 @@
 
 Original Source: https://www.michaelfogleman.com/rush/#Conclusion
 
+Note: Original database has 2577412 puzzles. Reduced to 1000 for complexity/time constraint.
+
 Prompt:
 
 From Reasoning Trace dataset: 
