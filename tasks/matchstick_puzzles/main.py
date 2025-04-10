@@ -4,13 +4,24 @@ from pathlib import Path
 from typing import Dict
 import subprocess
 
+# Updated prompt template using the model's trained format.
 PROMPT_TEMPLATE = """# Matchstick Puzzles
 
 Prompt:
+You are a helpful AI Assistant that provides well-reasoned and detailed responses.
+You first think about the reasoning process as an internal monologue and then provide the user with the answer.
+Respond in the following format:
+<think>
+[Your step-by-step reasoning with detailed considerations.]
+</think>
+<answer>
+[Your final solution in a clear, concise format, including every move and the resulting equation.]
+</answer>
 
-This requires engaging in a comprehensive cycle of analysis, summarizing, exploration, reassessment, reflection, backtracing, and iteration to develop well-considered thinking process. Please structure your response into two main sections: Thought and Solution. In the Thought section, detail your reasoning process using the specified format: <|begin_of_thought|> {thought with steps separated with '\\n\\n'} <|end_of_thought|> Each step should include detailed considerations such as analysing questions, summarizing relevant findings, brainstorming new ideas, verifying the accuracy of the current steps, refining any errors, and revisiting previous steps. In the Solution section, based on various attempts, explorations, and reflections from the Thought section, systematically present the final solution that you deem correct. The solution should remain a logical, accurate, concise expression style and detail necessary step needed to reach the conclusion, formatted as follows: <|begin_of_solution|> {final formatted, precise, and clear solution} <|end_of_solution|> Now, try to solve the following question through the above guidelines:
+This requires engaging in a comprehensive cycle of analysis, summarizing, exploration, reassessment, reflection, backtracing, and iteration to develop a well-considered thinking process.
 
-You are to be given a \"matchstick puzzle\" where you need to identify how to rearrange matches to convert a given numerical equation or expression into another. The format of a digit's expression in matches depends on how many of 7 matchsticks are chosen ( top, upper left, upper right, middle, lower left, lower right, bottom).
+You are to be given a "matchstick puzzle" where you need to identify how to rearrange matchsticks to convert a given numerical equation or expression into another.
+The format of a digit's expression in matches depends on how many of 7 matchsticks are chosen (top, upper left, upper right, middle, lower left, lower right, bottom).
 
 The key for each digit's matchstick representation is:
 - 0: 6 matchsticks — segments: top, upper left, upper right, lower left, lower right, bottom.
@@ -24,22 +35,22 @@ The key for each digit's matchstick representation is:
 - 8: 7 matchsticks — segments: top, upper left, upper right, middle, lower left, lower right, bottom.
 - 9: 6 matchsticks — segments: top, upper left, upper right, middle, lower right, bottom.
 
-The key for each of the operator's matchstick representation is:
+The key for each operator's matchstick representation is:
 - Minus (-): 1 matchstick.
 - Plus (+): 2 matchsticks (one horizontal and one vertical).
-- Multiplication (x) : can not be changed (if an equation has a multiplication sign, then do not change that operator)
+- Multiplication (x): cannot be changed (if an equation has a multiplication sign, then do not change that operator).
 
 Rules:
-1. The only valid move is a transfer of matchsticks. In other words, you may move around matchsticks but only such that the total number of matchsticks remains the same. Also, the resulting configuration of all digits/operators adheres to the key above.
+1. The only valid move is a transfer of matchsticks (i.e., you may move matchsticks as long as the total number remains the same and all digits/operators follow the above key).
 2. The puzzle presents an initial equation built from these matchstick configurations.
 3. Your task is to identify which matchstick to move (or remove and reattach) in order to create a valid equation.
 
 Problem:
-{equation}  Move exactly {number_of_moves} match stick to fix this equation. 
+{equation}
+Move exactly {number_of_moves} match stick to fix this equation.
 
-You may not change the equal sign, so !=, ≥, >, <, or ≤ are not allowed. Provide your answer in the form of one line for every moved match stick of the format of which specific segment of which digit/operator will be moved which specific segment of another digit/operator and one line for the resulting equation.
+Note: You may not change the equal sign.
 """
-
 
 def query_model(prompt: str, model_name: str) -> str:
     process = subprocess.run(
@@ -52,30 +63,25 @@ def query_model(prompt: str, model_name: str) -> str:
         raise RuntimeError(f"Remote execution failed: {process.stderr.decode()}")
     return process.stdout.decode().strip()
 
-
 def parse_response(response: str) -> Dict[str, str]:
+    """
+    Parse the model response that is expected to contain:
+      - Internal monologue in between <think> and </think>
+      - Final answer in between <answer> and </answer>
+    """
     thought = ""
     answer = ""
-    explanation = ""
-
-    if "<|begin_of_thought|>" in response and "<|end_of_thought|>" in response:
-        thought = response.split("<|begin_of_thought|>")[1].split("<|end_of_thought|>")[0].strip()
-
-    if "<|begin_of_solution|>" in response and "<|end_of_solution|>" in response:
-        solution = response.split("<|begin_of_solution|>")[1].split("<|end_of_solution|>")[0].strip()
-        lines = [line.strip() for line in solution.splitlines() if line.strip()]
-        if len(lines) >= 2:
-            explanation = lines[0]
-            answer = lines[1]
-        elif len(lines) == 1:
-            answer = lines[0]
-
+    
+    if "<think>" in response and "</think>" in response:
+        thought = response.split("<think>")[1].split("</think>")[0].strip()
+    
+    if "<answer>" in response and "</answer>" in response:
+        answer = response.split("<answer>")[1].split("</answer>")[0].strip()
+    
     return {
         "reasoning": thought,
-        "answer": answer,
-        "explanation": explanation
+        "answer": answer
     }
-
 
 def run_on_dataset(data_path: Path, model_name: str):
     with open(data_path, "r") as f:
@@ -88,6 +94,7 @@ def run_on_dataset(data_path: Path, model_name: str):
 
         response = query_model(prompt, model_name)
         sections = parse_response(response)
+        # Remove spaces from the model's answer for comparison.
         model_answer = sections["answer"].replace(" ", "")
 
         correct_field = problem["correct_solution"].get("resulting_equation")
@@ -101,16 +108,16 @@ def run_on_dataset(data_path: Path, model_name: str):
 
         is_correct = model_answer in correct_answers
 
-        problem["model_outputs"][model_name] = {
+        # Save the outputs under the model's name in the problem record.
+        # It now includes both the reasoning (the internal monologue) and the answer.
+        problem.setdefault("model_outputs", {})[model_name] = {
             "reasoning": sections["reasoning"],
             "answer": sections["answer"],
-            "explanation": sections["explanation"],
             "correct": is_correct
         }
 
     with open(data_path, "w") as f:
         json.dump(dataset, f, indent=2)
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
