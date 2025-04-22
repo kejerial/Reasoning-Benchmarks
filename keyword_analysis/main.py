@@ -4,11 +4,7 @@ import json
 import pandas as pd
 import logging
 from typing import Dict, List, Any
-
-try:
-    import openai
-except ImportError:
-    raise ImportError("Please install openai with `pip install openai` before running this script.")
+import openai
 
 # Configure logging
 logging.basicConfig(
@@ -28,16 +24,17 @@ def analyze_snippet(snippet: str) -> Dict[str, Any]:
     Calls the LLM to identify phrases aligning with Representational Change Theory
     and Progress Monitoring Theory. Returns a dict with lists and counts.
     """
-    system_prompt = (
-        "You are an expert in cognitive psychology. "
-        "Given a reasoning trace from an LLM, identify and extract all phrases that align with "
-        "1) Representational Change Theory (e.g., segment relocation, attribute re-encoding, problem restructuring) and "
-        "2) Progress Monitoring Theory (e.g., intermediate checks, solution evaluation, monitoring steps). "
-        "Respond in JSON with keys:"
-        "\n- representational_change_phrases: list of strings"
-        "\n- progress_monitoring_phrases: list of strings"
-        "\n- counts: { 'representational_change': int, 'progress_monitoring': int }"
-    )
+    system_prompt = '''
+        You are an expert in cognitive psychology.  
+        Given a reasoning trace from an LLM, identify and extract all phrases that align with  
+        1) Representational Change Theory (e.g., segment relocation, attribute re-encoding, problem restructuring) example: “Let me restructure the problem: instead of adding the numbers directly, I’ll rearrange the segments on the display.”  
+        2) Progress Monitoring Theory (e.g., intermediate checks, solution evaluation, monitoring steps) example: “At this point, I’ve verified each partial step; let me evaluate whether the overall solution satisfies the conditions.”  
+        Respond in JSON with keys: 
+        - representational_change_phrases: list of strings  
+        - progress_monitoring_phrases: list of strings  
+        - counts: { 'representational_change': int, 'progress_monitoring': int }"
+        The phrases should be verbatim from the reasoning trace.
+    '''
     user_prompt = f"Here is the reasoning trace:\n{snippet}"
 
     try:
