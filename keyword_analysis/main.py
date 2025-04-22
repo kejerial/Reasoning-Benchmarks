@@ -6,14 +6,8 @@ import logging
 from typing import Dict, List, Any
 import openai
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    datefmt="%Y-%m-%d %H:%M:%S"
-)
 
-# Load OpenAI API key
+OPENAI_API_KEY = "OPENAI_KEY_REDACTED9WPfzAnBwnAMRW30R_lYnPz3NWWAcGULgsi65IUkYLVCtejzlF7bzqoA"
 openai.api_key = os.getenv("OPENAI_API_KEY")
 if not openai.api_key:
     logging.error("OPENAI_API_KEY environment variable not set.")
