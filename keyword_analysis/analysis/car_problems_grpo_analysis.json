@@ -1,0 +1,160 @@
+[
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "GBBoxoGHIooLoHIAALDDJKoLooJKEEoxoooo",
+    "is_correct": null,
+    "rct_phrases": [
+      "To do this, we need to clear the path. Let's start by moving the cars that are blocking the path:"
+    ],
+    "pmt_phrases": [
+      "Now, the path is clear.",
+      "Let's break down the move list step-by-step to explain the reasoning behind each move:"
+    ],
+    "rct_count": 1,
+    "pmt_count": 2
+  },
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "oooJBBoooJoLoAAKoLoCCKDDooIEEEoxIGGx",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [
+      "After these moves, the board should look like this:",
+      "After these moves, the red car (A) is at (3,6)."
+    ],
+    "rct_count": 0,
+    "pmt_count": 2
+  },
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "FGBBCCFGooJKoHAAJKoHooxKoHIoooEEIooo",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's start by analyzing the board and identifying the positions of the cars.",
+      "The board is a 6x6 grid encoded as a 36-character string.",
+      "Plan the moves to free the red car 'A':"
+    ],
+    "pmt_phrases": [
+      "After these moves, the red car 'A' should be at the exit (3,6).",
+      "Let's verify the final board:"
+    ],
+    "rct_count": 3,
+    "pmt_count": 2
+  },
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "EoGHBBEFGHIoEFAAIoooooJKooooJKCCDDDK",
+    "is_correct": null,
+    "rct_phrases": [
+      "Given the 6x6 grid encoded as a 36-character string, we need to move the red car (A) to the exit at row 3, column 6.",
+      "Let's analyze the board step-by-step:"
+    ],
+    "pmt_phrases": [
+      "After the move, the board is:",
+      "The board is now:"
+    ],
+    "rct_count": 2,
+    "pmt_count": 2
+  },
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "BBJoooCCJoxLoIAAoLoIEEoLoFFKooGGGKHH",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "ooFHBBooFHoJAAGIoJooGICCoDDIooooEEoo",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "oBBBCCoooHoIAAoHoIooDDEEoooFFFooGGoo",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [
+      "Let's verify the final board configuration."
+    ],
+    "rct_count": 0,
+    "pmt_count": 1
+  },
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "IBBCCoIxEEKoAAoJKooooJFFoGGGoooooxoo",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "BBoooooFooIooFAAIJoGCCIJoGoHDDoxoHoo",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's start by analyzing the board and identifying the positions of the cars.",
+      "The board is encoded as a 6x6 grid, so we can break it down into 36 characters.",
+      "We can map this to a 6x6 grid:",
+      "Let's re-evaluate the board and find a more efficient path for the red car (A) to exit at (3,6)."
+    ],
+    "pmt_phrases": [
+      "Now, A can move to (3,6).",
+      "The move list is quite long due to the need to move the J car out of the way.",
+      "The final board will have the red car (A) at (3,6), and the J car will be at (5,6).",
+      "The other cars will be in their original positions."
+    ],
+    "rct_count": 4,
+    "pmt_count": 4
+  },
+  {
+    "task": "car_problems",
+    "training_type": "grpo",
+    "training_step": 0,
+    "checkpoint_id": "e5c36e8",
+    "problem_description": "oxCCCKDDIooKHoIAALHEEJoLoooJFFooGGoo",
+    "is_correct": null,
+    "rct_phrases": [
+      "The board is encoded as a 6x6 grid, so we can break it down into 36 characters.",
+      "We can map this to a 6x6 grid"
+    ],
+    "pmt_phrases": [
+      "The red car (A) is now at (3, 6), and the puzzle is solved."
+    ],
+    "rct_count": 2,
+    "pmt_count": 1
+  }
+]

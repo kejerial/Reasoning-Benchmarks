@@ -1,0 +1,2809 @@
+[
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Achy shaking stopped by iodine, salt and kaolin",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Paid the bail for a sound woman",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's parse that.",
+      "Wait, another possibility is that \"sound\" is part of a wordplay.",
+      "Alternatively, \"sound\" might be an abbreviation. For example, \"sound\" could be \"S.O.U.N.D.\" which is an acronym for something.",
+      "If we take \"sound\" and rearrange the letters, maybe we can form another word.",
+      "Let's see: S-O-U-N-D. Rearranged, that's \"S-D-O-N-U.\""
+    ],
+    "pmt_phrases": [
+      "but that doesn't seem to fit with the bail payment.",
+      "but that doesn't seem relevant.",
+      "Not sure.",
+      "Not helpful."
+    ],
+    "rct_count": 6,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "In Germany, thin girls can eat this!",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Old official partial to free verse",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's consider the components:",
+      "If we combine PART with something else.",
+      "Maybe PART is part of the answer.",
+      "If the answer is five letters, and PART is three, then the other two letters might be an abbreviation or another word.",
+      "Wait, 'partial' – if we reverse the letters, we get 'taharp,' which isn't a word.",
+      "Alternatively, 'partial' could be a homophone or an anagram.",
+      "Alternatively, \"free verse\" is FV, but maybe \"free\" is an abbreviation."
+    ],
+    "pmt_phrases": [
+      "Hmm, the answer is a 5-letter word.",
+      "Wait, 'Senex' is six letters. Hmm.",
+      "But that's six letters. Hmm.",
+      "But that's six letters. Not five.",
+      "Still not five."
+    ],
+    "rct_count": 8,
+    "pmt_count": 5
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Coarse-sounding son's in the wilderness",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Turns up in chilly surroundings yet well received",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let's list the letters: t, u (twice), r, n, s, p."
+    ],
+    "pmt_phrases": [
+      "Wait, but the answer is 7 letters. Let's check the letters in \"turns up\": t, u, r, n, s, u, p. That's seven letters."
+    ],
+    "rct_count": 2,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Foreign currency racket completely disheartened auditor",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "The fellow apprehending one felon",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Putting that together, the clue is describing someone who catches a criminal.",
+      "Alternatively, think of \"apprehending\" as a verb."
+    ],
+    "pmt_phrases": [
+      "but wait, \"offic\" isn't a word.",
+      "\"cop\" is a 3-letter word, but the answer needs to be 5 letters.",
+      "but \"arrest\" is a 6-letter word."
+    ],
+    "rct_count": 3,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Dames popular with sailors?",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let me think about common things that sailors might be popular with.",
+      "Maybe something related to entertainment or leisure activities.",
+      "Another thought:",
+      "Wait, another thought:"
+    ],
+    "pmt_phrases": [
+      "Wait, 'dances' is six letters: D-A-N-C-E-S.",
+      "But does that fit the clue?",
+      "Not matching.",
+      "So that's not matching.",
+      "Wait, 'mates' is a six-letter word?",
+      "Wait, 'mates' is four letters.",
+      "So that's not possible."
+    ],
+    "rct_count": 5,
+    "pmt_count": 7
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Last year's leaders entertained by regular journalist",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me consider the structure of the clue.",
+      "Breaking down the clue into words: Last, year's, leaders, entertained, by, regular, journalist.",
+      "If we take the first letters: E (from entertained), R (from regular), J (from journalist). That gives ERJ.",
+      "If we take the first letters: E, R, J. Then the remaining letters: T, A, I, N, D; G, U, L, A, R; O, R, A, L, I, S, T.",
+      "Alternatively, maybe the answer is a word that is an anagram of some letters from the clue."
+    ],
+    "pmt_phrases": [
+      "That's a lot of letters. Maybe we need to find overlapping letters or something.",
+      "If we combine both, that's 30 letters. But the answer is 6 letters. So maybe we need to take the first letters of each word in the clue?",
+      "But that's only 11 unique letters. But the answer is 6 letters. So maybe we need to combine some of these letters."
+    ],
+    "rct_count": 6,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Butcher breaks bent pan",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Improved a carving with direction",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "First, the clue says \"Improved a carving.\" So, \"improved\" is probably a definition here, meaning the word we're looking for is a synonym for \"improved.\"",
+      "Alternatively, \"carving\" could be an anagram.",
+      "Let's consider possible homophones.",
+      "Let's try rearranging the letters."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 5,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "'s \"a hairy man\", speaking in child's play",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Bend down to king in Chesterfield",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break it down step by step.",
+      "Alternatively, \"kneel\" or \"bow\" might be part of the word.",
+      "Alternatively, \"Chesterfield\" might be part of the word.",
+      "Alternatively, \"field\" could be part of the word.",
+      "Alternatively, \"bend\" is part of the word, and \"chesterfield\" somehow?",
+      "Wait, maybe \"bend\" is part of the word, and \"field\" is part.",
+      "Let's think of a 6-letter word that contains \"bend\" and \"field.\""
+    ],
+    "pmt_phrases": [
+      "But wait, the answer is 6 letters, so maybe it's a longer word that's been shortened or has an abbreviation.",
+      "But that's not directly related.",
+      "But that's not a word.",
+      "But \"kneelf\" isn't a word.",
+      "But \"kneefield\" isn't a word."
+    ],
+    "rct_count": 7,
+    "pmt_count": 5
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Message left in note, eg \"Castle in the morning\"",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "A weightwatchers' congress?",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Dim clue reset by compiler finally for \"cimbalom\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "first, I need to parse this cryptic clue step by step.",
+      "Let's break it down.",
+      "Let's parse this part."
+    ],
+    "pmt_phrases": [
+      "But that's 10 letters. Hmm, maybe not. Let me check.",
+      "'recompileend', which is 12 letters. Not matching."
+    ],
+    "rct_count": 3,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "In the chair, restraining Democrat under influence of drugs",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me parse the clue again: \"In the chair, restraining Democrat under influence of drugs.\"",
+      "Breaking down the wordplay part: \"restraining Democrat under influence of drugs.\"",
+      "Let me try to parse the wordplay part."
+    ],
+    "pmt_phrases": [
+      "Wait, the answer needs to be exactly 7 letters.",
+      "Let's check:",
+      "But 'TIED DOWN' is 8 letters, which is too long.",
+      "Alternatively, 'TIED' (4 letters) and 'DOWN' (4 letters) but that's 8. Hmm.",
+      "But TIE DEM is 5 letters.",
+      "That's 9 letters. Not 7. Hmm."
+    ],
+    "rct_count": 4,
+    "pmt_count": 6
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Horny beast imagined finding garment ripped, models having fled",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "First, let's parse the clue into parts.",
+      "Alternatively, maybe \"imagined finding garment ripped\" is a clue for a word that is an anagram of something. Let's see.",
+      "If we take \"garment\" and \"ripped,\" maybe we can combine them."
+    ],
+    "pmt_phrases": [
+      "If we need a 7-letter word, perhaps an anagram of parts of these words?",
+      "Wait, but how does that relate to the first part?",
+      "But that's not a real word. Hmm."
+    ],
+    "rct_count": 4,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 2090,
+    "checkpoint_id": "025abb7",
+    "problem_description": "Sword giving enemy cut to one leg",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Achy shaking stopped by iodine, salt and kaolin",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "I need to think about what these three substances are.",
+      "Now, the clue is saying that the achy shaking is stopped by these three. So, the answer is a word that is related to the treatment of achy shaking with these three substances.",
+      "Putting this together, the condition is likely a fever or chills that cause shaking, and is treated with iodine (for infection), salt (for electrolytes), and kaolin (for diarrhea).",
+      "Let me think of words that relate to these three substances.",
+      "Alternatively, think of the three substances as a group.",
+      "If we combine these, maybe I + NaCl + K? But that's not a word.",
+      "Alternatively, maybe the answer is a word that is a medical term for a condition that is treated with these three."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 8,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Paid the bail for a sound woman",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "The word \"sound\" here is probably a clue for a homophone or a word that sounds like another word."
+    ],
+    "pmt_phrases": [
+      "But \"sown\" is a 4-letter word, which doesn't fit the 5-letter requirement. So that might not be it."
+    ],
+    "rct_count": 2,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "In Germany, thin girls can eat this!",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Old official partial to free verse",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [
+      "Hmm, let's break it down step by step.",
+      "Let me think of 5-letter words that relate to poetry and have some historical connotation."
+    ],
+    "rct_count": 0,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Coarse-sounding son's in the wilderness",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Turns up in chilly surroundings yet well received",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 1,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Foreign currency racket completely disheartened auditor",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Alternatively, 'smurf' could be an anagram of 'frums,' which is a Yiddish term for foreign currency.",
+      "Alternatively, maybe 'auditor' is part of the wordplay."
+    ],
+    "pmt_phrases": [
+      "Let me check if 'smurf' can be an anagram of 'frums.'",
+      "Let's see: S-M-R-U-F. F-R-U-M-S. Yes, that works."
+    ],
+    "rct_count": 3,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "The fellow apprehending one felon",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Dames popular with sailors?",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Alternatively, \"Dames\" could be a synonym for a specific type of card.",
+      "Another thought: \"Dames\" could be a type of card that is associated with sailors."
+    ],
+    "pmt_phrases": [
+      "However, since the answer is a 6-letter word, it's more likely a title or a type of card.",
+      "But wait, the clue is about something popular with sailors. So maybe it's a type of card that sailors enjoy, like a playing card or a card game."
+    ],
+    "rct_count": 3,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Last year's leaders entertained by regular journalist",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me try to think of 6‑letter words that relate to entertainment and journalism."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 2,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Butcher breaks bent pan",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Improved a carving with direction",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let's parse each part:",
+      "Alternatively, 'Improved a carving with direction' could be a clue that the answer is a word that is a homophone or has a similar sound to a word with direction.",
+      "Alternatively, maybe the answer is a word that is a verb related to carving and has a directional component.",
+      "Wait, perhaps the answer is a word that is a homophone of a word with direction."
+    ],
+    "pmt_phrases": [
+      "So, let me check:",
+      "Hmm, none of these are 6 letters.",
+      "Is this the answer?"
+    ],
+    "rct_count": 5,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "'s \"a hairy man\", speaking in child's play",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me parse it step by step.",
+      "Let me break that down.",
+      "Let's look at each part.",
+      "Starting with the definition: \"a hairy man\"."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 4,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Bend down to king in Chesterfield",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Putting those two parts together:",
+      "Alternatively, maybe \"bend\" is a synonym for something else.",
+      "Alternatively, \"bend the knee\" could be a way of saying \"kneel,\" and \"kneel\" is a 5-letter word.",
+      "If we add a letter to \"kneel,\" making it 6 letters, maybe \"kneel\" plus an extra letter."
+    ],
+    "pmt_phrases": [
+      "The answer needs to be a 6-letter word."
+    ],
+    "rct_count": 5,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Message left in note, eg \"Castle in the morning\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me parse that example.",
+      "Let me think of words that sound like \"caste\".",
+      "Let me check the pronunciation.",
+      "Let's think of words that end with \"aste\" or have a similar sound."
+    ],
+    "pmt_phrases": [
+      "Since the answer needs to be 8 letters, \"caste\" is 5 letters, so we need to find an 8-letter word that sounds like \"caste\".",
+      "Taste: 5 letters, too short.",
+      "Fastest: 7 letters, too long.",
+      "Caste's: 6 letters, but with an apostrophe, which might not be allowed in a crossword clue.",
+      "But the clue says \"a single word with exactly 8 letters\". So, the answer must be a single word, not a phrase."
+    ],
+    "rct_count": 5,
+    "pmt_count": 5
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "A weightwatchers' congress?",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me think about the structure.",
+      "So, the wordplay here is probably related to dieting or weight loss."
+    ],
+    "pmt_phrases": [
+      "Possible 4-letter words for congress: CONG, CONV, CONC, etc. But let's check if any of these have a connection to weightwatchers."
+    ],
+    "rct_count": 3,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Dim clue reset by compiler finally for \"cimbalom\"",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [
+      "Okay, let's try to parse this clue step by step.",
+      "First, let's break down the components.",
+      "Let's see."
+    ],
+    "rct_count": 0,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "In the chair, restraining Democrat under influence of drugs",
+    "is_correct": null,
+    "rct_phrases": [
+      "Hmm. Let's break it down step by step.",
+      "First, the clue mentions \"in the chair.\"",
+      "Next, \"restraining Democrat.\"",
+      "Then, \"under influence of drugs.\"",
+      "Putting all these parts together: \"In the chair\" (position of authority), \"restraining Democrat\" (controlling a Democrat), and \"under influence of drugs\" (controlled by drugs)."
+    ],
+    "pmt_phrases": [
+      "Let me check if that fits the clue.",
+      "Let me check if there are other 7-letter words that could fit.",
+      "But opium is a 5-letter word, which doesn't fit.",
+      "But again, 6 letters. Not 7.",
+      "But meth is 4 letters. Not 7.",
+      "But heroin is 6 letters. Not 7."
+    ],
+    "rct_count": 5,
+    "pmt_count": 6
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Horny beast imagined finding garment ripped, models having fled",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 250,
+    "checkpoint_id": "1ae4fa3",
+    "problem_description": "Sword giving enemy cut to one leg",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Achy shaking stopped by iodine, salt and kaolin",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let me think about each part:",
+      "Let me consider possible medical terms that involve these substances.",
+      "Alternatively, maybe the answer is a word that is formed by combining the first letters of these substances.",
+      "Alternatively, maybe the answer is a word that is a combination of these elements in some way.",
+      "Alternatively, maybe the answer is a word that is formed by combining these three substances in a chemical formula.",
+      "Alternatively, think of the answer as a word that is the result of stopping the shaking with these substances.",
+      "Alternatively, think of the answer as a word that is a combination of the three substances."
+    ],
+    "pmt_phrases": [
+      "but tetany starts with 'T', which might not fit the 9-letter requirement.",
+      "But that's three letters. Not helpful.",
+      "But again, not sure.",
+      "But that's not a word.",
+      "But does that relate to the substances? Maybe not.",
+      "but that's too vague."
+    ],
+    "rct_count": 8,
+    "pmt_count": 6
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Paid the bail for a sound woman",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 1,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "In Germany, thin girls can eat this!",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's parse that.",
+      "Let's think about possible food items that are associated with Germany.",
+      "Alternatively, 'thin girls' might be part of the wordplay.",
+      "Let's consider that 'thin' could be an anagram indicator.",
+      "If we take the letters from 'thin girls,' we can rearrange them to form the answer. Let's try that.",
+      "Let's see if we can rearrange these letters to form a food item."
+    ],
+    "pmt_phrases": [
+      "First, the clue mentions \"in Germany,\" which might be a hint towards a German word or something related to Germany.",
+      "If we remove duplicates, we have T, H, I, N, G, R, L, S. That's 8 letters."
+    ],
+    "rct_count": 7,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Old official partial to free verse",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Alternatively, maybe \"Old\" is part of a longer word."
+    ],
+    "pmt_phrases": [
+      "But that's four letters. Still not five."
+    ],
+    "rct_count": 2,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Coarse-sounding son's in the wilderness",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let me think of words that sound coarse.",
+      "Maybe words with hard consonants or certain vowel sounds?",
+      "Let me consider possible places where sons might be."
+    ],
+    "pmt_phrases": [
+      "First, the clue mentions \"coarse-sounding.\"",
+      "Next, \"son's in the wilderness.\"",
+      "Wait, \"wilderness\" is a 12-letter word, which is longer than 7 letters."
+    ],
+    "rct_count": 4,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Turns up in chilly surroundings yet well received",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Another angle: \"turns up\" could be a clue for a word that is a synonym for \"appears\" or \"is found.\"",
+      "Let me list some 7-letter words that might be found in cold places:",
+      "Wait, maybe \"snow\" is part of the answer.",
+      "Maybe \"snow\" is part of a compound word."
+    ],
+    "pmt_phrases": [
+      "First, the clue mentions \"turns up in chilly surroundings.\"",
+      "Then, it says \"yet well received.\"",
+      "Hmm, that seems like a contrast between being in a cold place but still appreciated.",
+      "Let's see.",
+      "Let's check if that works.",
+      "That seems to fit.",
+      "Let's see if there are any other possibilities."
+    ],
+    "rct_count": 5,
+    "pmt_count": 7
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Foreign currency racket completely disheartened auditor",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's consider possible 5-letter words.",
+      "Let's think about synonyms for \"auditor.\"",
+      "Another angle: \"completely disheartened\" might be a clue for a word that is an anagram or a rearrangement of letters.",
+      "Alternatively, maybe the word is a combination of parts.",
+      "Alternatively, think about the foreign currency racket. Maybe \"foreign currency\" is a clue for a word.",
+      "Alternatively, maybe \"auditor\" is part of the word.",
+      "Alternatively, maybe \"auditor\" is part of the word, but the word is a combination of \"auditor\" and \"disheartened.\""
+    ],
+    "pmt_phrases": [
+      "The answer needs to be a 5-letter word.",
+      "That's 19 letters. But we need a 5-letter word.",
+      "But 'forcur' isn't a real word.",
+      "'foreign currency' could be 'forecur,' which is 6 letters. Not helpful.",
+      "But 'audor' isn't a word.",
+      "But that would be 12 letters. Not helpful."
+    ],
+    "rct_count": 8,
+    "pmt_count": 6
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "The fellow apprehending one felon",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Dames popular with sailors?",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Last year's leaders entertained by regular journalist",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [
+      "Hmm, the answer needs to be a 6-letter word.",
+      "First, the clue mentions \"last year's leaders.\"",
+      "Next part: \"entertained by regular journalist.\"",
+      "Let me think.",
+      "Let's see.",
+      "Alternatively, maybe the answer is a word that combines \"entertained\" and \"journalist\" somehow?"
+    ],
+    "rct_count": 0,
+    "pmt_count": 6
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Butcher breaks bent pan",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Improved a carving with direction",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's parse each part:",
+      "Putting these together, the clue is saying that the answer is a word that means \"improved\" and is related to a carving, and also has something to do with direction.",
+      "Now, thinking about carving. Carving can be associated with tools, techniques, or materials.",
+      "Possible 6-letter words related to carving:"
+    ],
+    "pmt_phrases": [
+      "Let's check if 'chisel' fits the clue.",
+      "Wait, 'better' is 6 letters. Let's check if 'better' relates to carving and direction."
+    ],
+    "rct_count": 5,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "'s \"a hairy man\", speaking in child's play",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let me parse it again.",
+      "Wait, maybe the clue is structured as a definition clue.",
+      "Alternatively, maybe the clue is a double definition.",
+      "So, let's consider the first part: \"a hairy man\".",
+      "But the answer is a possessive form, so maybe \"hairy\" is part of the word.",
+      "Alternatively, maybe \"hairy's\" is a homophone or an anagram of something else."
+    ],
+    "pmt_phrases": [
+      "Let's check that.",
+      "Let's check. \"Hairy's\" would be 6 letters: H-A-R-Y-E-S.",
+      "But let's check if that fits the second part."
+    ],
+    "rct_count": 7,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Bend down to king in Chesterfield",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Alternatively, maybe it's a word that is spelled with the letters C, H, E, S, T, F, R, B, L, D?",
+      "Alternatively, maybe the answer is a word that is an anagram of some letters from Chesterfield."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 3,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Message left in note, eg \"Castle in the morning\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "Hmm, let's break down the clue step by step.",
+      "That suggests that the word is a homophone or a word that sounds like another word.",
+      "Let's parse that.",
+      "Wait, maybe the example is showing that the message is a word that sounds like \"CASTLE\", which is \"C-A-S-T-L-E\". So, the answer is a word that sounds like \"CASTLE\" but is spelled differently.",
+      "So, the answer is a homophone of \"CASTLE\"."
+    ],
+    "pmt_phrases": [
+      "The answer needs to be a single word with exactly 8 letters.",
+      "But the answer needs to be 8 letters. \"CASTLE\" is 6 letters.",
+      "So, the answer is a homophone of \"CASTLE\" that's 8 letters long."
+    ],
+    "rct_count": 5,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "A weightwatchers' congress?",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Alternatively, maybe 'weight' and 'congress' are combined in a different way.",
+      "If we take the first two letters of 'weight' (we) and the first two letters of 'congress' (co), that gives 'weco,' which is not a word.",
+      "Another thought: 'weight' and 'congress' are combined as a compound word.",
+      "Alternatively, think of 'congress' as a meeting, and 'weight' as the subject."
+    ],
+    "pmt_phrases": [
+      "However, 'scale' is a 4-letter word, but does it fit the clue? Let's check.",
+      "But that doesn't quite make sense.",
+      "That makes sense. Let's check the clue again: 'A weightwatchers' congress?'",
+      "Let's check the definition."
+    ],
+    "rct_count": 5,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Dim clue reset by compiler finally for \"cimbalom\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "first, let's break down the clue step by step.",
+      "Let's see if we can parse it.",
+      "Let's start with the definition part."
+    ],
+    "pmt_phrases": [
+      "But since the answer is supposed to be 8 letters, maybe \"dim\" is part of the wordplay."
+    ],
+    "rct_count": 3,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "In the chair, restraining Democrat under influence of drugs",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Putting all these elements together: a Democrat in a position of authority (like \"chair\") who is being restrained (maybe by drugs) or is under their influence.",
+      "Let me consider some possibilities."
+    ],
+    "pmt_phrases": [
+      "First, the clue mentions \"In the chair,\" which is a common phrase.",
+      "Next, \"restraining Democrat.\" A Democrat is a member of the Democratic Party in the U.S., so this is probably referring to a Democrat in some kind of position.",
+      "Then, \"under influence of drugs.\""
+    ],
+    "rct_count": 3,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Horny beast imagined finding garment ripped, models having fled",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 750,
+    "checkpoint_id": "442e422",
+    "problem_description": "Sword giving enemy cut to one leg",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Alternatively, maybe the word is a combination of letters from \"sword,\" \"cut,\" and \"leg.\""
+    ],
+    "pmt_phrases": [],
+    "rct_count": 2,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Achy shaking stopped by iodine, salt and kaolin",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me think about what these substances are.",
+      "Putting it together, the clue is describing a medical condition that is characterized by achy shaking, and is treated with iodine, salt, and kaolin.",
+      "Let me think of medical terms related to achy shaking."
+    ],
+    "pmt_phrases": [
+      "Let me check. Myalgia is 8 letters, arthralgia is 10 letters. Hmm, maybe not.",
+      "Let me think again."
+    ],
+    "rct_count": 4,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Paid the bail for a sound woman",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 1,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "In Germany, thin girls can eat this!",
+    "is_correct": null,
+    "rct_phrases": [
+      "Maybe something that's light or easy to consume?",
+      "Or perhaps a word that sounds like \"thin\" but has a different meaning?",
+      "Alternatively, maybe the word is a homophone or a word that sounds like \"thin,\" but the answer is 8 letters.",
+      "Alternatively, \"thin\" could be a clue for \"light,\" but \"light\" is 4 letters."
+    ],
+    "pmt_phrases": [
+      "Okay, let's try to figure out this crossword clue: \"In Germany, thin girls can eat this!\"",
+      "Let's break down the clue step by step.",
+      "First, the clue mentions \"in Germany,\" which might be a hint that the word has a German origin or is related to Germany.",
+      "Let me think about what \"thin girls\" might relate to.",
+      "Let me consider possible words that could fit.",
+      "Wait, \"thin\" could be a clue for \"ginger.\" Ginger is a spice, and \"ginger\" is 6 letters."
+    ],
+    "rct_count": 4,
+    "pmt_count": 6
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Old official partial to free verse",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Alternatively, maybe the clue is referring to a historical position that is partial to free verse.",
+      "Alternatively, maybe the clue is using \"partial\" as a definition."
+    ],
+    "pmt_phrases": [
+      "Let me check if \"free\" can be combined with another word.",
+      "Wait, maybe \"free\" as in \"free verse,\" but \"free\" is a 3-letter word."
+    ],
+    "rct_count": 3,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Coarse-sounding son's in the wilderness",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Next, \"son's in the wilderness\". This seems like a cryptic clue structure. In cryptic crosswords, \"son's\" could be a homophone or an anagram. Let's consider both possibilities."
+    ],
+    "pmt_phrases": [
+      "But \"suns\" is a 3-letter word, which doesn't fit the 7-letter requirement.",
+      "Hmm, maybe not.",
+      "But we need a 7-letter word."
+    ],
+    "rct_count": 2,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Turns up in chilly surroundings yet well received",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step."
+    ],
+    "pmt_phrases": [
+      "But 'ice' is only 3 letters. The answer needs to be 7 letters.",
+      "\"chilly\" itself is a 6-letter word.",
+      "'chillout' is 8 letters, but that's too long.",
+      "But \"coolness\" is 8 letters. Hmm.",
+      "\"chill\" + \"ing\" would be 6 letters. Still not 7. Hmm.",
+      "\"cold\" + \"ness\" is 6 letters. Still not 7. Hmm."
+    ],
+    "rct_count": 1,
+    "pmt_count": 6
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Foreign currency racket completely disheartened auditor",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Putting these two parts together: a foreign currency involved in a scam that made an auditor disheartened.",
+      "The prefix \"dis-\" means \"not\" or \"away from\", and \"heartened\" means to give hope or encouragement."
+    ],
+    "pmt_phrases": [
+      "The answer needs to be a 5-letter word.",
+      "But the answer is a 5-letter word, so maybe FC is part of a longer word.",
+      "But again, not 5.",
+      "Not helpful.",
+      "Hmm."
+    ],
+    "rct_count": 3,
+    "pmt_count": 5
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "The fellow apprehending one felon",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let's parse that.",
+      "Maybe I need to think differently.",
+      "Let's consider the structure of the clue."
+    ],
+    "pmt_phrases": [
+      "Hmm, none of these seem to fit.",
+      "Now, thinking about 5-letter words that fit this description.",
+      "Not helpful."
+    ],
+    "rct_count": 4,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Dames popular with sailors?",
+    "is_correct": null,
+    "rct_phrases": [
+      "First, \"dames\" here probably refers to women, maybe like sailors' wives or girlfriends.",
+      "Alternatively, maybe it's a profession or a role that women take on that's associated with sailors.",
+      "Let me recall some nautical terms."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 3,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Last year's leaders entertained by regular journalist",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Another approach:",
+      "Let's consider possible abbreviations or terms."
+    ],
+    "pmt_phrases": [
+      "But EJ is two letters. We need a 6-letter word."
+    ],
+    "rct_count": 3,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Butcher breaks bent pan",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "First, the clue is a cryptic one, so it's likely to have both a definition and some wordplay.",
+      "Let me see if I can parse it.",
+      "Let's look at the words:",
+      "Wait, 'butcher' as a verb can mean to cut or chop, but that might not fit here.",
+      "Wait, maybe 'bent' is part of the wordplay."
+    ],
+    "pmt_phrases": [
+      "The answer needs to be a 7-letter word.",
+      "This is probably the wordplay part.",
+      "But a spoon is 5 letters. Hmm."
+    ],
+    "rct_count": 6,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Improved a carving with direction",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "'s \"a hairy man\", speaking in child's play",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me parse the definition part first:",
+      "Alternatively, maybe \"a hairy man\" could be a play on \"a hair's breadth\" where \"hair\" is part of the word.",
+      "Alternatively, maybe \"a hair\" is a homophone for another word.",
+      "Alternatively, maybe \"a hair\" is part of a word that sounds like \"a hair's breadth\"."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 5,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Bend down to king in Chesterfield",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "So, putting it together: 'bend the knee' (6 letters) + 'in Chesterfield'."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 2,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Message left in note, eg \"Castle in the morning\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "First, the clue mentions \"Message left in note\". So, the word we're looking for is a message that's written in a note. That suggests that the word is a homophone or a word that sounds like another word.",
+      "If we take the first syllable of \"castle\" and the last syllable of \"morning\", that would be \"cast\" and \"ning\".",
+      "Alternatively, maybe the example is a homophone."
+    ],
+    "pmt_phrases": [
+      "Let me think about that.",
+      "Let me check the pronunciation.",
+      "Wait, maybe it's a different way. Let me check the pronunciation.",
+      "But again, that's not a word. Hmm."
+    ],
+    "rct_count": 4,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "A weightwatchers' congress?",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Dim clue reset by compiler finally for \"cimbalom\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let me parse that.",
+      "Let's try to parse it again:",
+      "Breaking it down:"
+    ],
+    "pmt_phrases": [
+      "Hmm, the answer needs to be an 8-letter word.",
+      "But wait, \"dim\" is a 3-letter word, and the answer needs to be 8 letters.",
+      "Hmm, not sure.",
+      "But how does that connect to the other parts of the clue?"
+    ],
+    "rct_count": 4,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "In the chair, restraining Democrat under influence of drugs",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's consider the parts:",
+      "Alternatively, \"chair\" as a verb."
+    ],
+    "pmt_phrases": [
+      "Hmm, the answer is a 7-letter word.",
+      "Wait, that's a problem.",
+      "So maybe \"chairman\" isn't the right word."
+    ],
+    "rct_count": 3,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Horny beast imagined finding garment ripped, models having fled",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "First, the clue mentions \"horny beast.\" That probably refers to a rhinoceros, since rhinos are often associated with horns. So maybe the first part is a rhinoceros.",
+      "Then, \"imagined finding garment ripped.\" So the rhinoceros is imagining finding a garment that's ripped."
+    ],
+    "pmt_phrases": [
+      "Hmm, the answer needs to be a 7-letter word.",
+      "If we take \"model\" as M, \"flee\" as F, \"torn\" as T, then maybe MFT? But that's 3 letters. Not helpful."
+    ],
+    "rct_count": 3,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 500,
+    "checkpoint_id": "5ca531f",
+    "problem_description": "Sword giving enemy cut to one leg",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let me think about the possible components:",
+      "Let me list out the letters involved:",
+      "Putting these together, perhaps the answer is a word that combines \"sword\" and \"leg\" or \"enemy\" and \"cut.\""
+    ],
+    "pmt_phrases": [
+      "But the answer needs to be 4 letters. So maybe the sword is part of the word, but combined with another word.",
+      "But that's 8 letters. Not helpful.",
+      "That's 7 letters. Still not 4.",
+      "But that seems unlikely.",
+      "So maybe not.",
+      "But that's 5 letters. Not helpful.",
+      "Still not helpful.",
+      "Hmm, that might be possible.",
+      "If we take the first two letters of \"leg\" (LE) and the last two letters of \"sword\" (OR). But that's \"LEOR,\" which is 4 letters. But \"LEOR\" isn't a common word. Alternatively, \"LEGR\" (LEGR) is \"leg\" but with an extra R. Not helpful.",
+      "But S isn't in the letters. So no.",
+      "But O isn't in the letters. So no."
+    ],
+    "rct_count": 4,
+    "pmt_count": 11
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Achy shaking stopped by iodine, salt and kaolin",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me list the components:",
+      "Putting these together, maybe the condition is related to stomach issues or diarrhea, since kaolin is a common treatment for that.",
+      "I need to think about what condition would involve achy shaking and be treated with those three substances."
+    ],
+    "pmt_phrases": [
+      "Let me check if that fits.",
+      "But let me verify if there's another term.",
+      "Let me check if 'diarrhea' fits the clue."
+    ],
+    "rct_count": 4,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Paid the bail for a sound woman",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let's parse that.",
+      "Alternatively, 'sound' might be an abbreviation.",
+      "Wait, another possibility is that \"sound\" is a homophone.",
+      "Alternatively, 'sound' could be part of a wordplay. For example, an anagram.",
+      "If we take 'sound' and rearrange the letters, maybe 'DONS' or 'SUDS.'"
+    ],
+    "pmt_phrases": [
+      "but that doesn't seem to fit with the bail payment.",
+      "but that doesn't seem relevant.",
+      "but that's not related to sound.",
+      "But neither of those are 5-letter words.",
+      "But that's not an anagram."
+    ],
+    "rct_count": 6,
+    "pmt_count": 5
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "In Germany, thin girls can eat this!",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Old official partial to free verse",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 1,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Coarse-sounding son's in the wilderness",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Another thought: \"son's\" could be a homophone or an anagram.",
+      "Wait, maybe \"son's\" is part of a word that's a homophone for a 7-letter word."
+    ],
+    "pmt_phrases": [
+      "The answer needs to be a 7-letter word.",
+      "But 'sown' is 4 letters. The answer needs to be 7 letters, so maybe 'sown' is combined with another 3 letters.",
+      "For example, 'sown' plus 'land' (4 letters) would be 8. Not 7.",
+      "Alternatively, 'sown' plus 'ship' (5 letters) would be 9."
+    ],
+    "rct_count": 3,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Turns up in chilly surroundings yet well received",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let's consider possible parts of speech.",
+      "Let's list the letters: t, u (twice), r, n, s, p."
+    ],
+    "pmt_phrases": [
+      "Let's see if that fits the clue.",
+      "Let's check: E-M-E-R-G-E-S. Yes, 7 letters."
+    ],
+    "rct_count": 3,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Foreign currency racket completely disheartened auditor",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "The fellow apprehending one felon",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Dames popular with sailors?",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Last year's leaders entertained by regular journalist",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Butcher breaks bent pan",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Improved a carving with direction",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "'s \"a hairy man\", speaking in child's play",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me parse the clue again: \"'s 'a hairy man', speaking in child's play\".",
+      "If we take \"a\" as a homophone, \"a\" sounds like \"ay\".",
+      "Alternatively, \"a\" could be a homophone for \"ay\", and \"hairy man\" is a phrase that sounds like another word.",
+      "Alternatively, \"hairy\" is a word, and \"man\" is also a word. Maybe \"hairy\" is an anagram?",
+      "If we rearrange the letters in \"hairy\", we get \"hairy\" (HAIRY).",
+      "Let's check: \"highway\" starts with \"high\", which could be \"hairy\" if rearranged.",
+      "Alternatively, \"a hairy man\" could be a homophone for \"haywire man\".",
+      "Let's check: \"haywire\" sounds like \"hay wire\", which is a phrase.",
+      "Alternatively, \"a hairy man\" could be a homophone for \"high five\"."
+    ],
+    "pmt_phrases": [
+      "But \"high five\" is a phrase, not a word. So maybe not.",
+      "But \"haywire\" is a word that sounds like \"hay wire\", but \"hay\" is not \"hairy\"."
+    ],
+    "rct_count": 10,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Bend down to king in Chesterfield",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break it down step by step.",
+      "Let's think about anagrams or hidden words.",
+      "'bend down' could be a clue for a word that starts with K or B",
+      "For example, 'kneel' starts with K.",
+      "If we take the letters from 'Chesterfield,' but that's 11 letters.",
+      "Maybe the answer is a word that contains \"Chester\" or \"field\" as part of it?",
+      "Alternatively, \"bend down to king\" could be a definition."
+    ],
+    "pmt_phrases": [
+      "First, the clue mentions \"bend down to king.\"",
+      "Then there's \"in Chesterfield.\"",
+      "But how does that connect to the clue?",
+      "Wait, maybe \"Chesterfield\" is part of the wordplay.",
+      "If the answer is a 6-letter word, let's think of words that mean \"king\" but are 6 letters.",
+      "Wait, the clue says \"bend down to king.\" So maybe the answer is a word that means \"king\" but is formed by combining \"bend\" and \"down\" with another word.",
+      "But how does that relate to Chesterfield?"
+    ],
+    "rct_count": 7,
+    "pmt_count": 7
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Message left in note, eg \"Castle in the morning\"",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "A weightwatchers' congress?",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Dim clue reset by compiler finally for \"cimbalom\"",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "In the chair, restraining Democrat under influence of drugs",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Wait, let's look at the second part of the clue: \"restraining Democrat under influence of drugs.\" Let's parse that.",
+      "Alternatively, \"restraining\" might be a synonym for \"controlling\" or \"binding.\" So, the Democrat is being controlled or bound under the influence of drugs. The word \"restraining\" could be a clue to a word that means \"controlling\" or \"binding,\" which might be \"RESTRAIN.\"",
+      "If \"RESTRAIN\" is the answer, then \"in the chair\" might be part of the definition. So, \"chair\" as in a position of authority. So, \"chair\" + \"restrain\" = \"CHAIRRESTR,\" which is 11 letters."
+    ],
+    "pmt_phrases": [
+      "Wait, the answer needs to be exactly 7 letters.",
+      "But \"RESTRAIN\" is 7 letters. Let's check if that fits.",
+      "That doesn't fit."
+    ],
+    "rct_count": 4,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Horny beast imagined finding garment ripped, models having fled",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "First, let's parse the clue into parts."
+    ],
+    "pmt_phrases": [
+      "But is that a word? Let's check.",
+      "Let's see if we can rearrange those letters into a 7-letter word.",
+      "Wait, maybe I made a mistake here. Let's count again."
+    ],
+    "rct_count": 2,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1750,
+    "checkpoint_id": "7518d70",
+    "problem_description": "Sword giving enemy cut to one leg",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Achy shaking stopped by iodine, salt and kaolin",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Wait, another approach:",
+      "Alternatively, the clue could be a portmanteau or a combination of the first letters.",
+      "Alternatively, think of the treatment."
+    ],
+    "pmt_phrases": [
+      "Let's check the first letters: A (achy), I (iodine), S (salt), K (kaolin). That gives A-I-S-K. But that's only four letters. Not 9. So that's probably not it.",
+      "But Kaopectate is a brand name, not a single word.",
+      "For example, K-A-O-L-I-N-I-D-E: 9 letters. Is that a real word? I don't recall. Maybe not."
+    ],
+    "rct_count": 4,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Paid the bail for a sound woman",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let's parse that.",
+      "Alternatively, \"sound\" could be a homophone or a wordplay element here. Maybe \"sound\" is a clue for a homophone of another word?",
+      "Alternatively, \"sound\" could be an abbreviation. For instance, \"sound\" might be an abbreviation for something.",
+      "Let's check possible anagrams.",
+      "Rearranging those, maybe \"dons\" or \"sund\" or \"dons\"?"
+    ],
+    "pmt_phrases": [
+      "but that might not make sense.",
+      "but that doesn't fit.",
+      "Not sure.",
+      "Not helpful.",
+      "So that's not it."
+    ],
+    "rct_count": 6,
+    "pmt_count": 5
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "In Germany, thin girls can eat this!",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let's parse that.",
+      "Maybe 'thin girls' is a clue for a word that sounds like 'skin.'",
+      "Wait, 'thin girls' might be a clue for a word that sounds like 'skin.'"
+    ],
+    "pmt_phrases": [
+      "Let me think about possible words that could fit.",
+      "But 'skin' is only 4 letters. Maybe not.",
+      "For example, 'skin' plus 'bread' would be 'skinbread,' but that's not a real word. Alternatively, 'skin' plus 'meat' would be 'skinmeat,' which is also not a word. Hmm."
+    ],
+    "rct_count": 4,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Old official partial to free verse",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Coarse-sounding son's in the wilderness",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Turns up in chilly surroundings yet well received",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me think about words that are associated with cold environments.",
+      "Another angle: \"turns up\" could be a clue for a word that is a homophone or has a different meaning when rearranged.",
+      "Alternatively, \"turns up\" could be a clue for \"TUNA\" with some letters added or removed.",
+      "If we take the first letters of each: T, C, A, which is TCA. Then \"TUNA\" is TUNA. So TCA + TUNA = TCATUNA, which is 8 letters. Not 7. Hmm."
+    ],
+    "pmt_phrases": [
+      "But TUNA is 5 letters, not 7. So that might not fit.",
+      "But 'TUNANA' isn't a real word.",
+      "Not helpful.",
+      "which is 8 letters. Not 7."
+    ],
+    "rct_count": 5,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Foreign currency racket completely disheartened auditor",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "The fellow apprehending one felon",
+    "is_correct": null,
+    "rct_phrases": [
+      "First, let's break down the clue.",
+      "Alternatively, 'corner' could be a homophone or a wordplay.",
+      "Another thought: 'fellow' is part of the clue. Maybe 'fellow' is part of the wordplay."
+    ],
+    "pmt_phrases": [
+      "But 'corner' is a 5-letter word. Let me check if that fits the clue.",
+      "If you corner a person, you trap them, which is similar to apprehending.",
+      "So 'corner' seems plausible."
+    ],
+    "rct_count": 3,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Dames popular with sailors?",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Last year's leaders entertained by regular journalist",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me consider the definition part first."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 2,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Butcher breaks bent pan",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me parse each part:",
+      "Putting it together, the clue is probably a double definition where \"butcher\" defines part of the answer, and \"breaks bent pan\" defines another part.",
+      "Let me think about butcher-related terms."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 4,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Improved a carving with direction",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me parse each part.",
+      "Let me think of verbs related to carving.",
+      "Alternatively, maybe the carving was improved by adding directionality."
+    ],
+    "pmt_phrases": [
+      "But \"pointed\" is 6 letters. Let's check.",
+      "But \"oriented\" is 8 letters, which is too long.",
+      "But \"became\" is a bit vague. Let me check if that makes sense.",
+      "Let me check the definition."
+    ],
+    "rct_count": 4,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "'s \"a hairy man\", speaking in child's play",
+    "is_correct": null,
+    "rct_phrases": [
+      "so I need to break it down step by step.",
+      "First, let's parse the clue.",
+      "Let me think about each part separately.",
+      "Maybe \"hairy\" is part of a longer word.",
+      "Wait, maybe \"hairy\" is part of a longer word.",
+      "Alternatively, maybe \"a hairy man\" is a definition, and \"speaking in child's play\" is the wordplay.",
+      "Alternatively, maybe \"a hairy man\" is a definition, and \"speaking in child's play\" is the wordplay. So the answer is a six-letter word that is a child's term for a hairy man."
+    ],
+    "pmt_phrases": [
+      "Let's see. If the answer is six letters, and it's a possessive (X's) of another word (Y), which is related to a hairy man speaking in child's play.",
+      "But let's check the clue again.",
+      "But let's see if that works with the clue."
+    ],
+    "rct_count": 7,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Bend down to king in Chesterfield",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Message left in note, eg \"Castle in the morning\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me parse that example to see how it works.",
+      "Alternatively, maybe \"castle\" is hidden within \"morning\" or vice versa.",
+      "Maybe \"castle\" is part of a longer word but split in the middle. For example, \"cast\" + \"le\" + \"in\" – \"castlein\" – 8 letters."
+    ],
+    "pmt_phrases": [
+      "maybe \"morning castle\" would be 13 letters, but that's not an 8-letter word.",
+      "\"morning castle\" – that's not a common phrase.",
+      "\"Castlein\" – not a word?",
+      "\"castleon\" – not a word.",
+      "\"castleat\" – nope.",
+      "\"castleas\" – nope.",
+      "\"morninge\" – not a word.",
+      "\"morning's\" – 9 letters. Not 8.",
+      "\"morninga\" – 9 letters. Not 8."
+    ],
+    "rct_count": 4,
+    "pmt_count": 9
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "A weightwatchers' congress?",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Dim clue reset by compiler finally for \"cimbalom\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "first, I need to parse the clue step by step",
+      "look for any definitions, wordplay, abbreviations, or anagrams",
+      "Alternatively, maybe the answer is a 4‑letter word that becomes an 8‑letter word when transformed by the compiler",
+      "Alternatively, maybe 'compiler' is a clue for a 6‑letter word, and 'dim clue' is another 6‑letter word, but when combined, they form an 8‑letter word"
+    ],
+    "pmt_phrases": [
+      "Hmm",
+      "Let's check the definitions",
+      "Wait, 'compiler' here might be a clue for a word that's related to programming or coding",
+      "But how does that relate to 'dim'",
+      "not sure",
+      "But that seems forced",
+      "But that's not standard",
+      "But that's not a standard clue",
+      "But that's not possible"
+    ],
+    "rct_count": 4,
+    "pmt_count": 9
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "In the chair, restraining Democrat under influence of drugs",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Putting all these elements together, I need a 7-letter word that combines leadership, restraint, political party, and drug influence."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 2,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Horny beast imagined finding garment ripped, models having fled",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step."
+    ],
+    "pmt_phrases": [
+      "But let's not jump to conclusions yet."
+    ],
+    "rct_count": 1,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1000,
+    "checkpoint_id": "a8531ea",
+    "problem_description": "Sword giving enemy cut to one leg",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Achy shaking stopped by iodine, salt and kaolin",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me list the components:"
+    ],
+    "pmt_phrases": [],
+    "rct_count": 2,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Paid the bail for a sound woman",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "In Germany, thin girls can eat this!",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's parse the clue again: \"thin girls can eat this.\"",
+      "Let me think."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 3,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Old official partial to free verse",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "First, the clue mentions \"Old official,\" which probably refers to a historical figure or a title.",
+      "If \"partial\" is an anagram, maybe rearranging the letters gives us the answer.",
+      "Maybe \"partial\" is a hint for a word that's an anagram or a part of something.",
+      "The term \"free verse\" is often abbreviated as \"fv\" or \"f.v.\"",
+      "Maybe the answer is a word that combines \"partial\" and \"free verse.\"",
+      "\"Freeverse\" is a word, but that's 7 letters.",
+      "So \"partial to free verse\" is a definition. So the answer is a word that is an old official (title or name) that is partial to free verse.",
+      "Let me think about historical figures associated with free verse."
+    ],
+    "pmt_phrases": [
+      "Hmm, the answer is a 5-letter word.",
+      "but I need to think more.",
+      "But how does that relate to \"partial to free verse\"?",
+      "but the answer needs to be 5 letters.",
+      "But that's not a word either."
+    ],
+    "rct_count": 9,
+    "pmt_count": 5
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Coarse-sounding son's in the wilderness",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Turns up in chilly surroundings yet well received",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Alternatively, maybe the word is an anagram or a cryptic clue.",
+      "Let's parse the clue again: \"Turns up in chilly surroundings yet well received.\""
+    ],
+    "pmt_phrases": [
+      "But these are all nouns.",
+      "The clue is asking for a 7-letter word, so maybe a verb or an adjective?",
+      "But \"frost\" is only four letters. Hmm.",
+      "\"Snowstorm\" is 8 letters. Not 7. Hmm."
+    ],
+    "rct_count": 3,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Foreign currency racket completely disheartened auditor",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "The fellow apprehending one felon",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Dames popular with sailors?",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Last year's leaders entertained by regular journalist",
+    "is_correct": null,
+    "rct_phrases": [
+      "let me break down the clue step by step",
+      "Let's think about the letters",
+      "maybe the answer is a word that is an anagram or a combination of parts",
+      "If the answer is 6 letters, let's see if we can break down the clue into parts",
+      "Putting those together, maybe the clue is combining 'last year's leader' and 'entertained by a regular journalist.'"
+    ],
+    "pmt_phrases": [
+      "'entertai,' but that's not a word",
+      "\"entertained by regular journalist\" – if the answer is \"editor,\" how does that fit?",
+      "But how does 'entertained by regular journalist' relate?"
+    ],
+    "rct_count": 5,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Butcher breaks bent pan",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Improved a carving with direction",
+    "is_correct": null,
+    "rct_phrases": [
+      "let me break down the clue step by step",
+      "Let's parse each part:"
+    ],
+    "pmt_phrases": [],
+    "rct_count": 2,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "'s \"a hairy man\", speaking in child's play",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me parse the clue again: \"'s 'a hairy man', speaking in child's play\"."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 2,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Bend down to king in Chesterfield",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Message left in note, eg \"Castle in the morning\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me think about how that works.",
+      "Alternatively, maybe the clue is saying that the message is left in a note, similar to how in cryptic clues, the definition is hidden in the clue.",
+      "Alternatively, maybe the clue is using an anagram or a different kind of wordplay.",
+      "Alternatively, maybe the clue is using a different method."
+    ],
+    "pmt_phrases": [
+      "But wait, that would be two letters.",
+      "But the answer needs to be 8 letters.",
+      "That's not eight."
+    ],
+    "rct_count": 5,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "A weightwatchers' congress?",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Putting these together, we need a word that combines the idea of Weightwatchers and a congress.",
+      "Let's think about how these might be combined.",
+      "Let's consider the structure of the answer. It's a 4-letter word.",
+      "Let's think of common 4-letter words related to meetings or congresses."
+    ],
+    "pmt_phrases": [
+      "The answer needs to be a single 4-letter word."
+    ],
+    "rct_count": 5,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Dim clue reset by compiler finally for \"cimbalom\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break it down.",
+      "Let's look at the components:",
+      "Putting this together:",
+      "Let's list them again:"
+    ],
+    "pmt_phrases": [
+      "Let's check.",
+      "Let's think.",
+      "Let's see."
+    ],
+    "rct_count": 4,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "In the chair, restraining Democrat under influence of drugs",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step."
+    ],
+    "pmt_phrases": [
+      "Let me verify if \"chairman\" is a 7-letter word."
+    ],
+    "rct_count": 1,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Horny beast imagined finding garment ripped, models having fled",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's parse that.",
+      "Let's check if \"horny beast\" can be rearranged into a 7-letter word.",
+      "If we take the first 7 letters: H, O, R, N, Y, B, E."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 4,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1500,
+    "checkpoint_id": "a88a82b",
+    "problem_description": "Sword giving enemy cut to one leg",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Achy shaking stopped by iodine, salt and kaolin",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "First, the clue mentions \"achy shaking.\" That probably refers to a symptom, maybe a type of pain or discomfort.",
+      "The phrase \"stopped by\" here is likely a clue for a word that is formed by combining or modifying these substances.",
+      "Putting these together, the clue might be referring to a compound or a medication that combines these three elements to stop a particular condition.",
+      "Let me think about possible medical terms that involve these components.",
+      "Alternatively, \"iodine\" and \"salt\" could be combined with kaolin to form a longer word. Let's see:",
+      "Wait, the clue says \"achy shaking stopped by iodine, salt and kaolin.\" So the shaking (which is a symptom) is stopped by these three substances."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 7,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Paid the bail for a sound woman",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "In Germany, thin girls can eat this!",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's parse the clue again: \"thin girls can eat this.\" So, \"thin girls\" probably refers to a group of people, and \"eat this\" is the action.",
+      "The wordplay here might involve an anagram or a homophone.",
+      "Let me think about possible German words that could fit.",
+      "Let's consider some common German words.",
+      "Maybe a compound word?",
+      "Let's think of words that can be rearranged to form another word."
+    ],
+    "pmt_phrases": [
+      "Hmm, none of these are 8 letters. Maybe a compound word?",
+      "\"Kinderfutter\" is children's food, but that's 11 letters. Not matching."
+    ],
+    "rct_count": 7,
+    "pmt_count": 2
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Old official partial to free verse",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "First, the clue mentions \"Old official,\" which probably refers to a historical figure or a title.",
+      "Next part: \"partial to free verse.\"",
+      "So maybe the answer is a word that combines \"free\" and \"verse,\" but how?",
+      "Wait, \"partial\" here might be a clue for a word that means \"part\" or \"partial,\" but in cryptic clues, \"partial\" can sometimes be a homophone or a wordplay element.",
+      "Wait, \"partial\" could also be a definition for \"part\" or \"section.\"",
+      "Alternatively, \"partial\" might be a definition for \"part,\" and \"free verse\" could be a definition for \"verse.\""
+    ],
+    "pmt_phrases": [
+      "But since it's a 5-letter word, let's narrow it down."
+    ],
+    "rct_count": 7,
+    "pmt_count": 1
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Coarse-sounding son's in the wilderness",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Let's consider both possibilities.",
+      "If we take \"son's\" as a clue, perhaps the letters can be rearranged to form another word.",
+      "Maybe the anagram is without the apostrophe?",
+      "Wait, maybe \"son's\" is a clue for a word that starts with \"son\" and ends with something else."
+    ],
+    "pmt_phrases": [
+      "Hmm, the answer is a 7-letter word.",
+      "So maybe the answer has a rough or harsh sound? Let's note that.",
+      "But that's four letters. The answer needs to be seven letters.",
+      "Not 7. Hmm.",
+      "But how does that fit with \"in the wilderness\"?"
+    ],
+    "rct_count": 5,
+    "pmt_count": 5
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Turns up in chilly surroundings yet well received",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me consider some 7-letter words that might fit.",
+      "Alternatively, think about words that are both related to cold and have a positive meaning.",
+      "Another thought: 'well received' could mean that the word is a homophone or an anagram.",
+      "Alternatively, think of words that start with 'glac-' but maybe not.",
+      "Maybe 'weld' plus 'ice' but that's 7. Hmm. Not sure."
+    ],
+    "pmt_phrases": [
+      "Let's see if that works.",
+      "But let me check other possibilities.",
+      "Let's check the definition."
+    ],
+    "rct_count": 6,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Foreign currency racket completely disheartened auditor",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "The fellow apprehending one felon",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Dames popular with sailors?",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let's break down the clue step by step.",
+      "Another angle: \"dames\" could be an abbreviation.",
+      "Alternatively, \"dames\" could be a homophone or a wordplay.",
+      "Alternatively, \"dames\" could be a clue for a word that starts with \"D\" and ends with \"ES,\" which would make a 6-letter word.",
+      "Alternatively, \"dames\" could be a clue for \"DOSES.\""
+    ],
+    "pmt_phrases": [
+      "The answer needs to be a single 6-letter word.",
+      "Wait, \"doses\" is a 5-letter word.",
+      "But that might not make sense.",
+      "So that's not helpful."
+    ],
+    "rct_count": 5,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Last year's leaders entertained by regular journalist",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Butcher breaks bent pan",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "Let me parse that.",
+      "Let me consider possible interpretations.",
+      "Let's explore both possibilities.",
+      "First, if \"Butcher\" is the definition, then the wordplay is \"breaks bent pan.\"",
+      "Alternatively, if \"Butcher\" is part of the wordplay, then \"breaks bent pan\" is the definition."
+    ],
+    "pmt_phrases": [
+      "Let me check if there's a definition here.",
+      "I need to figure out which part is the definition and which is the wordplay.",
+      "But the answer needs to be 7 letters.",
+      "Let's list the letters again."
+    ],
+    "rct_count": 6,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Improved a carving with direction",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "So, breaking it down:",
+      "Alternatively, maybe \"carving\" is a clue for a word that is a carving, but also has direction.",
+      "Let's think differently."
+    ],
+    "pmt_phrases": [
+      "First, the clue says \"Improved\" – This is probably a definition part of the clue.",
+      "So the answer is a word that is a carving, but also has something to do with direction.",
+      "Wait, maybe \"carving\" here is a homophone or a different word that sounds like \"carving\"? Let me think.",
+      "Hmm, maybe not."
+    ],
+    "rct_count": 4,
+    "pmt_count": 4
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "'s \"a hairy man\", speaking in child's play",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Bend down to king in Chesterfield",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Message left in note, eg \"Castle in the morning\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step.",
+      "So, the wordplay here is probably a container or a message within a note.",
+      "Wait, the example is \"Castle in the morning\". Let's parse that.",
+      "So maybe the clue is a container where \"castle\" is placed within \"in the morning\".",
+      "Maybe an anagram?",
+      "Let's try rearranging the letters.",
+      "Alternatively, maybe \"Castle in the morning\" is a clue for a word that is a container, and the example is \"castle\" (a container) with \"in the morning\" (the contents)."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 7,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "A weightwatchers' congress?",
+    "is_correct": null,
+    "rct_phrases": [
+      "Let me break down the clue step by step."
+    ],
+    "pmt_phrases": [],
+    "rct_count": 1,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Dim clue reset by compiler finally for \"cimbalom\"",
+    "is_correct": null,
+    "rct_phrases": [
+      "first, let's break down the clue step by step.",
+      "maybe this is a clue that was originally a cryptic one but has been modified or \"compiled\" into something else?",
+      "The term \"reset\" might mean that the clue has been simplified or transformed.",
+      "Alternatively, \"reset by compiler\" could be a clue that when you compile a program, you reset variables or something."
+    ],
+    "pmt_phrases": [
+      "Hmm",
+      "So the answer is a word that relates to a cimbalom. But since the clue is about a dim clue reset by a compiler, maybe the answer is a word that is a result of compiling or processing another word?",
+      "Wait, \"dim\" can mean unclear or not bright."
+    ],
+    "rct_count": 4,
+    "pmt_count": 3
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "In the chair, restraining Democrat under influence of drugs",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Horny beast imagined finding garment ripped, models having fled",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  },
+  {
+    "task": "crossword",
+    "training_type": "sft",
+    "training_step": 1250,
+    "checkpoint_id": "d3d170c",
+    "problem_description": "Sword giving enemy cut to one leg",
+    "is_correct": null,
+    "rct_phrases": [],
+    "pmt_phrases": [],
+    "rct_count": 0,
+    "pmt_count": 0
+  }
+]
