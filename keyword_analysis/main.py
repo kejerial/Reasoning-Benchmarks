@@ -145,7 +145,7 @@ def collect_all(
     delay: float = 0.5,
     output_dir: str = "analysis_output",
 ) -> None:
-    tasks = [("crossword","crossword")]  # ("car_problems","car_problems"), ("matchstick","matchstick")
+    tasks = [("crossword","crossword"), ("car_problems","car_problems"), ("matchstick","matchstick")] 
     training_types = ["grpo","sft"]
     os.makedirs(output_dir, exist_ok=True)
     for task_dir, task_name in tasks:
