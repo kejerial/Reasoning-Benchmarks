@@ -1,8 +1,6 @@
 # Auditing Aha! Moments in Finetuned Language Models: A Cognitive-Theory Driven Analysis of CoT
-[![Static Badge](https://img.shields.io/badge/Hugging%20Face%20🤗-Qwen2.5-7B-Instruct-SFT-blue)
-](https://huggingface.co/od2961/Qwen2.5-7B-Instruct-SFT)
-[![Static Badge](https://img.shields.io/badge/Hugging%20Face%20🤗-Qwen2.5-7B-Instruct-GRPO-blue)
-](https://huggingface.co/od2961/Qwen2.5-7B-Instruct-GRPO)
+[![Static Badge](https://img.shields.io/badge/Hugging%20Face%20🤗-Qwen2.5-7B-Instruct-SFT-blue)](https://huggingface.co/od2961/Qwen2.5-7B-Instruct-SFT)
+[![Static Badge](https://img.shields.io/badge/Hugging%20Face%20🤗-Qwen2.5-7B-Instruct-GRPO-blue)](https://huggingface.co/od2961/Qwen2.5-7B-Instruct-GRPO)
 
 Abstract:
 We present a human psychology-ground audit to maps chain-of-thought (CoT) traces to two complementary cognitive theories of insight—\emph{Representational Change Theory} (RCT) and \emph{Progress Monitoring Theory} (PMT)—using a GPT-4o-based majority-vote classifier with inter-rater reliability of $\kappa > 0.85$. We apply this audit to two model families and multiple alignment regimes:
