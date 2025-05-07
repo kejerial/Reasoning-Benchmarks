@@ -1,4 +1,25 @@
-#!/usr/bin/env python
+"""
+sample_mini_1.4k.py
+
+This script samples a 1,400-example subset ("mini_1.4k") from the AM-DeepSeek-R1-Distilled-1.4M dataset,
+ensuring proportional representation across different dataset sources.
+
+Key features:
+- Performs stratified sampling according to a predefined distribution of parent sources.
+- Uses reservoir sampling to process large input JSONL files in streaming fashion.
+- Applies filters to exclude examples containing:
+    1. Missing reference answers
+    2. Code/test-case fields
+    3. Non-ASCII characters (e.g., Chinese)
+
+Input files:
+    0.9M.jsonl
+    0.5M.jsonl
+
+Output:
+    mini_1.4k.jsonl — sampled JSONL file with exactly 1,400 records distributed proportionally.
+"""
+
 import json
 import random
 import re
