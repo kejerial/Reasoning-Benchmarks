@@ -1,0 +1,5 @@
+Distribution of aligned_theory labels:
+RCT: 144
+PMT: 13
+None: 20
+Total: 177
